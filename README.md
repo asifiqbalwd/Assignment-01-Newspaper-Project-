@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The **World Times** project is an HTML-based news webpage showcasing the latest global updates, including top news, global diplomacy, tech innovations, and sports. It also features a user feedback form and an instructional video on how to post news.
+The **Newspaper** project is an HTML-based news webpage showcasing the latest global updates, including top news, global diplomacy, tech innovations, and sports. It also features a user feedback form and an instructional video on how to post news.
 
 ---
 
