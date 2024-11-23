@@ -31,3 +31,9 @@ The **World Times** project is an HTML-based news webpage showcasing the latest 
 - Embedded YouTube video for instructions.
 
 ---
+
+### Live Link:
+
+[Assignment-01(Newspaper-project)](https://asifiqbalwd.github.io/Assignment-01-Newspaper-Project-/)
+
+---
